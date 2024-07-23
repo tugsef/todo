@@ -19,8 +19,7 @@ A sleek and efficient todo app built with React Native. Organize your tasks with
   <img width="196" height="426" src='./docs/todo_7.png'/>
   <img width="196" height="426" src='./docs/todo_8.png'/>
   <img width="196" height="426" src='./docs/todo_9.png'/>
-  <img width="196" height="426" src='./docs/todo_10.png'/>
-  <img width="196" height="426" src='./docs/todo_11.png'/>
+
   
  
 
